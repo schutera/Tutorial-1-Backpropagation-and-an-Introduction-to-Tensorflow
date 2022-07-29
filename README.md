@@ -73,6 +73,7 @@ Mark Schutera - mark.schutera@gmail.com
 
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
+- Stefan Bühler
 
 So long, and thanks for all the fish.
 
